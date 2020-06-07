@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-asincronismo",
+  "version": "1.0.0",
+  "description": "Working with Asyncronism in Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Jorge Ossa <jorgehossa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
